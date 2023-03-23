@@ -1,4 +1,5 @@
 # ts-bot
+a simple discord bot that I made just to experiment and make fun stuff with it
 
 ## To start the app localy
 - contact me to send you the token
